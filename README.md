@@ -22,6 +22,8 @@ Life Objective is to make this world a better place for the less fortunate peopl
 
 <h3 align="left">Languages and Tools:</h3>
 
+ <img align="left" alt="Visual Studio Code" width="26px"  src="https://tse2.mm.bing.net/th?id=OIP.5buHUPTRyHinYFLl1hSelgHaEK&pid=Api&P=0&h=180" width="40" height="40"/>
+ <img align="left" alt="Visual Studio Code" width="26px"  src="https://tse1.mm.bing.net/th?id=OIP.Fq2hsViLjy_-eqFigD5JQQHaEO&pid=Api&P=0&h=180" width="40" height="40"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://tse2.mm.bing.net/th?id=OIP.apx9RV93xj_wDeJrYJ-exQHaIZ&pid=Api&P=0&h=180" width="40" height="40"/>
     <img align="left" alt="Visual Studio Code" width="26px"  src="https://tse2.mm.bing.net/th?id=OIP.MF5V_dkybUTcfzwHFh0VSwHaEO&pid=Api&P=0&h=180" width="40" height="40"/>
     <img align="left" alt="Visual Studio Code" width="26px" src="https://tse1.mm.bing.net/th?id=OIP.7wF76mX0WOm9KvCzd5JtGwHaEK&pid=Api&P=0&h=180" width="40" height="40"/>
